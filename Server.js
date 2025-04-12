@@ -27,7 +27,7 @@ app.use(cookieParser());
 
 // Routes
 app.get("/", (req, res) => {
-  res.send("Backend is running...");
+  res.send("Backend is running Hello Khushkhabriii...");
 });
 
 // Database Connection
